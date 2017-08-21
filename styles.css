@@ -1,16 +1,80 @@
-	.mySlides {
-		display:	none;
-		
+	body {
+		font-family:georgia!important;
+		background-color:#FFFAD6;
+	}
+	
+	a {
+		text-decoration: none;
 	}
 	
 	#pictures{
 		margin-top:	46px;
 	}
 	
-	#textBeData{
-			margin-top:	46px;
+	#textBeDate{
+		margin-top:	50px;
+		background-color:#FCC07C;
+		margin-bottom:10px;
 	}
 	
 	#motivation{
-			margin-top:	46px;
+		margin-top:	46px;
+	}
+	
+	.w3-firstmonth{
+		background-color:#D5E8A5!important;
+	}
+	
+	.w3-secondmonth{
+		background-color:#E8CCA5!important;
+	}
+	
+	
+	.box{
+		margin:2px;
+		width:130px;
+		height:130px;
+		font-weight: bold;
+		text-align:center;
+		box-sizing: border-box;
+		
+	}
+	
+	.box:visited{
+		background-color:#E68181!important;
+	
+	}
+	
+	.mybutton{
+	background-color:#FCC47C!important;
+	width:300px;
+	height:80px;
+	padding-top:10px;
+	text-decoration: none;
+	text-align:center;
+	box-sizing: border-box;
+	margin-left:auto;
+	margin-right:auto;
+	
+	}
+	
+	.mybutton:hover{
+	background-color:#FC7C7C!important;
+	cursor:pointer;
+	}
+	
+	.day{
+		font-size:32px;
+	}
+	
+	.month{
+		font-size:18px;
+	}
+	
+	.year{
+		font-size:17px;
+	}
+	
+	.clearb{
+		clear:both;
 	}

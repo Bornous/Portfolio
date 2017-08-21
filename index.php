@@ -13,7 +13,7 @@
 	
 </head>
 
-<body class="w3-khaki">
+<body >
 
 	<div class="w3-top">
 		<div id="topBar" class="w3-bar w3-black w3-card">
@@ -30,7 +30,7 @@
 	</div>
 	
 	<div id="text" class="w3-content w3-center" style="max-width:2000px;margin-top:46px;;margin-bottom:100px">
-		<a href="form.php"> <h1 class="w3-button w3-orange w3-hover-green">Clik to sing up</h1></a>
+		<a href="form.php"> <h1 class="mybutton">Clik to sing up</h1></a>
 	</div>
 	
 	<?php

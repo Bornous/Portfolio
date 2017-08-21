@@ -14,7 +14,7 @@
 	
 </head>
 
-<body class="w3-khaki" onload="fillCalendar()">
+<body onload="fillCalendar()">
 	<div class="w3-top">
 		<div id="topBar" class="w3-bar w3-black w3-card">
 			<a href="index.php" class="w3-bar-item w3-button w3-padding-large">HOME</a>
@@ -23,7 +23,7 @@
 		</div>
 	</div>
 	
-	<div id="textBeData" class="w3-container w3-center" >
+	<div id="textBeDate" class="w3-container w3-center w3-bar" >
 		<h2 >Choose a date:</h3>
 
 	</div>
